@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=m\ n
+comment0.target=Matrix(int,\ int)
+comment0.text=\n\ Constructor\ that\ initializes\ the\ members\ and\ creates\ an\ array\ of\ double\n
+comment1.params=
+comment1.target=int\ getNRows()
+comment1.text=\n\ Returns\ the\ number\ of\ rows\ in\ the\ matrix\n
+comment2.params=
+comment2.target=int\ getNColumns()
+comment2.text=\n\ Returns\ the\ number\ of\ columns\ in\ the\ matrix\n
+comment3.params=
+comment3.target=int[]\ getSize()
+comment3.text=\n\ Get\ the\ size\ of\ the\ matrix.\ It\ is\ returned\ as\ an\ array\ of\ two\ integers\n\ of\ size\ m\ by\ n\n
+comment4.params=i\ j
+comment4.target=void\ checkParameters(int,\ int)
+comment4.text=\n\ Check\ that\ the\ parameters\ are\ inside\ the\ matrix\ dimensions\n
+comment5.params=i\ j
+comment5.target=int\ getMatrixValue(int,\ int)
+comment5.text=\n\ Getter\ and\ setter\ for\ data\ in\ the\ matrix\n
+comment6.params=i\ j\ value
+comment6.target=void\ setMatrixValue(int,\ int,\ int)
+comment6.text=\n\ Set\ the\ value\ for\ the\ matrix\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ For\ printing\ out\ the\ matrix\n
+numComments=8
